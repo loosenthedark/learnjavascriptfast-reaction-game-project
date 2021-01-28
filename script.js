@@ -90,8 +90,8 @@
                         displayResults(players);
                     }
                     else {
-                        totalTime,
-                            reactionTime,
+                        totalTime = 0;
+                            reactionTime = 0;
                             bestTime = 0;
 
                         document.getElementById('besttime').innerHTML = 0;
